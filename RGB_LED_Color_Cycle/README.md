@@ -28,7 +28,7 @@ A simple yet effective **IoT project** using an **Arduino Uno** to control an **
 ---
 
 ### 🖥️ Circuit Diagram
-
+![circuit diagram](circuit.png)
 > **Wiring Summary:**
 
 * Red Pin → Arduino Pin **9** (with 220Ω resistor)

@@ -23,7 +23,7 @@ Welcome to my **IoT Projects Collection**, where I explore and build real-world 
 
 * **Tech Used**: Arduino UNO, RGB LED, 220Ω resistors
 * [Project Folder](./RGB_LED_Color_Cycle)
-* [Circuit Diagram](#) *(Add if available)*
+* [Circuit Diagram](RGB_LED_Color_Cycle/circuit.png)
 * ✅ Status: Completed
 
 ---

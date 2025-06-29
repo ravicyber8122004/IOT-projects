@@ -1,5 +1,7 @@
 # 🚀 Ravi Rathor's IoT Projects Repository
 
+![LOGO](logo.avif)
+
 Welcome to my **IoT Projects Collection**, where I explore and build real-world Internet of Things (IoT) solutions using **Arduino**, **sensors**, **actuators**, and **embedded systems**. Each project focuses on learning, innovation, and practical application.
 
 ---

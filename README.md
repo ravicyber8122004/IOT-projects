@@ -84,7 +84,7 @@ Each project focuses on learning, innovation, and practical application — all 
 **Ravi Rathor**
 *IoT | Embedded Systems | Flutter | Software Engineering*
 📍 India
-🔗 [LinkedIn](#https://www.linkedin.com/in/ravi-rathor-29831a355/) | [GitHub](#https://github.com/ravicyber8122004) | [Portfolio](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/ravi-rathor-29831a355/) | [GitHub](https://github.com/ravicyber8122004) | [Portfolio](#)
 
 ---
 

@@ -27,6 +27,7 @@ Built & simulated on **Tinkercad** in \~20–30 minutes!
 ---
 
 ## ⚙️ Circuit Diagram
+![Circuit](circuit.png)
 
 ### Connections:
 
